@@ -13,7 +13,7 @@ vs
 public void sound.play(){
 }
 ```
-Do you see what is wrong with the naming convention here. Yes? See, Having the method name s.play() doesn't give other developers what the method does. But the developer that wrote the method knows that it means. As developers this is one of the biggest mistakes we do, give bad names to variables and methods and expect other developers to magically know what the variable does.  
+Do you see what is wrong with the naming convention here. Yes? See, having the method name s.play() doesn't tell other developers what the method does. But the developer that wrote the method knows that it means. As developers this is one of the biggest mistakes we can do, give bad names to variables and methods and expect other developers to magically know what the variable does.  
 
 ```java
 //Adding comments makes the code even more understandable 
